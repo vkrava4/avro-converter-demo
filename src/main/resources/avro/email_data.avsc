@@ -1,0 +1,26 @@
+[
+  {
+     "type": "record",
+     "namespace": "com.vladkrava.avroconverterdemo.domain",
+     "name": "EmailData",
+     "doc": "Dummy email information which used to describe basic user data",
+     "fields": [
+       {
+            "name": "username",
+            "type": "string",
+            "doc": "Unique identifier/reference of User in a System"
+       },
+       {
+            "name": "email",
+            "type": "string",
+            "doc": "User email address"
+       },
+       {
+            "name": "subscribed",
+            "type": "boolean",
+            "default": true,
+            "doc": "A property which defines whether User has a newsletter subscription"
+       }
+     ]
+   }
+]
