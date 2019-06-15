@@ -1,6 +1,6 @@
 # Avro Converter Demo
 
-Demo project for Avro Converter Java library which enables conversion of Apache Avro object into popular data formats: JSON, XML, etc.
+Demo project for [Avro Converter](https://gitlab.com/vkrava4/avro-converter) Java library which enables conversion of Apache Avro object into popular data formats: JSON, XML, etc.
 
 ## Installing
 * Execute Docker Compose command `docker-compose up` to start configured docker container. This step will take few minutes on executing it the first time
@@ -17,7 +17,7 @@ Feeling difficulties with understanding Apache Avro concepts or onboarding Avro 
 Visit useful links which mentioned down below to get explicit information to all your questions:
 
  * [Avro Converter.](https://gitlab.com/vkrava4/avro-converter) Java library which enables conversion of Apache Avro object into popular data formats: JSON, XML, etc.
- * [Avro Converter Article.](https://gitlab.com/vkrava4-hands-on/avro-converter-demo) Quick overview on integration of Spring Boot, Apache Kafka and Avro Converter 
+ * [Avro Converter Article.](https://medium.com/@vkrava4/avro-converter-serialising-apache-avro-objects-via-rest-api-and-other-transformations-3402255e437e) Quick overview on integration of Spring Boot, Apache Kafka and Avro Converter 
  * [Apache Avro Homepage.](https://avro.apache.org) The place where everything has started
  * [Apache Avro Getting Started Page.](https://avro.apache.org/docs/current/gettingstartedjava.html) A short guide for getting started with Apache Avro using Java
 

@@ -1,4 +1,4 @@
-package com.vladkrava.avroconverterdemo.resouce;
+package com.vladkrava.avroconverterdemo.resource;
 
 import static com.vladkrava.converter.http.AbstractAvroHttpMessageConverter.AVRO_JSON;
 import static com.vladkrava.converter.http.AbstractAvroHttpMessageConverter.AVRO_XML;
